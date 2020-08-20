@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/bwmarrin/discordgo"
-	"github.com/phamill/discordgo-embeds/colors"
+	"github.com/Coaltergeist/discordgo-embeds/colors"
 )
 
 // An Embed is a struct that contains a pointer to a discordgo Embed object
