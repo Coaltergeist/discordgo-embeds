@@ -1,6 +1,7 @@
 # Embed library for DiscordGo
 
 Inspired by experience with OOP and the simplified example found in the DiscordGo Wiki [here](https://github.com/bwmarrin/discordgo/wiki/FAQ#simplifying-embeds)
+All credit to paul-io
 
 #### Purpose
 
@@ -12,6 +13,10 @@ First, grab the library
 
 ```
 go get github.com/paul-io/discordgo-embeds
+```
+alternatively
+```
+go get github.com/Coaltergeist/discordgo-embeds
 ```
 
 Then, you can utilize this library by first creating an instance of the Embed struct
